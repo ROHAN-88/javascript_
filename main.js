@@ -1,23 +1,17 @@
-// let name = 'A.Joker';
-// console.log(name);
-// let King='A.joker';
-// alert(King);
+//1,.variable in javascript
+/*
+var x=10;   
+let name="jake";
+const y=true;
 
-// let person={
-//     name:'A.Joker',
-//     age:'18'
-// };
+//there are many different type of variable in javascript ;
 
-// person.name='King'
 
-// console.log(person.age);
+*/
 
 
 
-
-
-
-// its  an array 
+// 2. Array in Javascript 
 
 
 // let selectcolor = ['Red','green','blue'];
@@ -34,7 +28,7 @@
 
 
 
-// its an funtion
+// 3. Funtion in Javascript 
 
 
 
@@ -57,7 +51,7 @@
 
 
 
-// object in array
+//5. object in array
 
 // const todos =[
 //     {
@@ -87,7 +81,7 @@
 
 
 
-//--------------------Loops-----------------------------------------
+//6.--------------------Loops-----------------------------------------
 
 //1. Forloops
    // for (let i=0;i<=100000;i++){
@@ -122,7 +116,7 @@
 
 
 
-    //-------------------high order array method------------------
+    //7.-------------------high order array method------------------
 
     //1.foreach
              // todos.forEach(function(name){
@@ -156,7 +150,7 @@
 
 
 
-//..................Conditional......................
+//8...................Conditional......................
 
    //1.If ......else
 
@@ -226,7 +220,7 @@
 
 
 
- //..............function..........................
+ //9...............function..........................
      //1.NormalFunction
 
         // function addnum(num1,num2){
@@ -261,7 +255,7 @@
         //   console.log(person2);
         
 
- //...............D.O.M..........................
+ // 10 ...............D.O.M(Document object method)..........................
       //1.single element
             //   const f=   document.getElementsByClassName('logo');
               //    console.log(f);
@@ -274,7 +268,7 @@
     //  console.log(document.body);
 
 
-            //.......innerhtml...........................
+            //11........innerhtml...........................
                        //    var time=document.querySelector('.hour');
                        //           let hour=12;
      
